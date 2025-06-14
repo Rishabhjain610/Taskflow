@@ -26,6 +26,4 @@
 
 ## 📽️ Demo
 
-
-
-https://github.com/user-attachments/assets/3cfe4f18-5c79-4e06-a240-198c2854e4cd
+https://github.com/user-attachments/assets/b0ae3f07-6d01-48d1-902a-9749eee5e406
