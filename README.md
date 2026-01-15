@@ -1,3 +1,6 @@
+## 📽️ Demo
+
+https://github.com/user-attachments/assets/b0ae3f07-6d01-48d1-902a-9749eee5e406
 # 📌 Overview
 **TaskFlow** is a simple and minimalistic full-stack To-Do application that allows users to add, update, and delete their daily tasks. Built with modern technologies, it ensures security with JWT authentication and bcrypt hashing, while being fully responsive and clean in design.
 
@@ -24,6 +27,4 @@
 
 ---
 
-## 📽️ Demo
 
-https://github.com/user-attachments/assets/b0ae3f07-6d01-48d1-902a-9749eee5e406
